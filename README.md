@@ -1,2 +1,2 @@
 # CPPong
-Pong clone in C++. Written for practice.
+C++ clone of Pong made for practice.
